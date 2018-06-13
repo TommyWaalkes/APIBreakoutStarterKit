@@ -1,0 +1,22 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommyWaalkes/APIBreakoutStarterKit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TommyWaalkes/APIBreakoutStarterKit/issues"
+  },
+  "homepage": "https://github.com/TommyWaalkes/APIBreakoutStarterKit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
